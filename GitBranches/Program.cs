@@ -11,6 +11,7 @@ namespace GitBranches
         static void Main(string[] args)
         {
             Console.WriteLine("Demo Git");
+            Console.WriteLine("Error provocat");
         }
     }
 }
