@@ -12,9 +12,11 @@ namespace GitBranches
         {
             Console.WriteLine("Demo Git");
             Console.WriteLine("Estas son las preguntas que vamos a contestar: ");
-            Console.WriteLine("Esta es la rama de Jordi");
-            Console.WriteLine("1. Cunato timepo llevas en Hartmann?")
+            Console.WriteLine("1. Cunato timepo llevas en Hartmann?");
+            Console.WriteLine("Esta es la rama de Robert");
             Console.WriteLine("1. 4 meses");
+            Console.WriteLine("Esta es la rama de Jordi");
+            Console.WriteLine("1. llevo 4 meses")
         }
     }
 }
