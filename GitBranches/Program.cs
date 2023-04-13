@@ -19,8 +19,9 @@ namespace GitBranches
             Console.WriteLine("1. llevo 4 meses");
             Console.WriteLine("Esta es la respuesta de Enrico");
             Console.WriteLine("1. 4 meses");
-            Console.WriteLine("Esta es la rama de Enrico");
-            Console.WriteLine("1. 4 meses");
+            Console.WriteLine("2. Mascota favorita");
+            Console.WriteLine("Esta es la respuesta de Enrico");
+            Console.WriteLine("1. Perro");
         }
     }
 }
