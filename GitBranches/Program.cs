@@ -15,8 +15,8 @@ namespace GitBranches
             Console.WriteLine("1. Cuanto tiempo llevas en Hartmann?");
             Console.WriteLine("Esta es la rama de Robert");
             Console.WriteLine("1. 4 meses");
-            Console.WriteLine("Esta es la rama de Pol");
-            Console.WriteLine("2. 1 mes");
+            Console.WriteLine("Esta es la respuesta de Pol");
+            Console.WriteLine("1. 1 mes");
         }
     }
 }
